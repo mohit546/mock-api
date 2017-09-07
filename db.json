@@ -23,5 +23,13 @@
     "image": "http://lorempixel.com/400/200/city/3",
 	"bedrooms": 7,
 	"description": ""
+  },{
+    "title": "D Nivas",
+    "owner": "Kundan Patil",
+    "city": "Pune",
+    "propertyType": "House",
+    "image": "http://lorempixel.com/400/200/city/4",
+	"bedrooms": 2,
+	"description": ""
   }
 ]
