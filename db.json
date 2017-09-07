@@ -1,35 +1,37 @@
-[
-  {
-    "title": "A Nivas",
-    "owner": "Mohit Patil",
-    "city": "Jalgaon",
-    "propertyType": "Flat",
-    "image": "http://lorempixel.com/400/200/city/1",
-	"bedrooms": 4,
-	"description": ""
-  },{
-    "title": "B Nivas",
-    "owner": "Rohit Patil",
-    "city": "Thane",
-    "propertyType": "Row house",
-    "image": "http://lorempixel.com/400/200/city/2",
-	"bedrooms": 5,
-	"description": ""
-  },{
-    "title": "C Nivas",
-    "owner": "Nikhil Rane",
-    "city": "Powai",
-    "propertyType": "Banglo",
-    "image": "http://lorempixel.com/400/200/city/3",
-	"bedrooms": 7,
-	"description": ""
-  },{
-    "title": "D Nivas",
-    "owner": "Kundan Patil",
-    "city": "Pune",
-    "propertyType": "House",
-    "image": "http://lorempixel.com/400/200/city/4",
-	"bedrooms": 2,
-	"description": ""
-  }
-]
+{
+	"rentals": [
+		{
+			"title": "A Nivas",
+			"owner": "Mohit Patil",
+			"city": "Jalgaon",
+			"propertyType": "Flat",
+			"image": "http://lorempixel.com/400/200/city/1",
+			"bedrooms": 4,
+			"description": ""
+		},{
+			"title": "B Nivas",
+			"owner": "Rohit Patil",
+			"city": "Thane",
+			"propertyType": "Row house",
+			"image": "http://lorempixel.com/400/200/city/2",
+			"bedrooms": 5,
+			"description": ""
+		},{
+			"title": "C Nivas",
+			"owner": "Nikhil Rane",
+			"city": "Powai",
+			"propertyType": "Banglo",
+			"image": "http://lorempixel.com/400/200/city/3",
+			"bedrooms": 7,
+			"description": ""
+		},{
+			"title": "D Nivas",
+			"owner": "Kundan Patil",
+			"city": "Pune",
+			"propertyType": "House",
+			"image": "http://lorempixel.com/400/200/city/4",
+			"bedrooms": 2,
+			"description": ""
+		}
+	]
+}
